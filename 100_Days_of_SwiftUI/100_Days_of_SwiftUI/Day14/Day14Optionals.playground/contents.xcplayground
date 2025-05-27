@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='HandleMissingData'/>
+        <page name='UnwrapOptionalsWithGuard'/>
+        <page name='UnwrapOptionalswithNilCoalescing'/>
+        <page name='HandleMultipleOptionalsChaining'/>
+        <page name='HandleFunctionFailurewithOptionals'/>
+    </pages>
+</playground>
